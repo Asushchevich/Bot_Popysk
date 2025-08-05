@@ -1,2 +1,4 @@
 python-telegram-bot>=21.0
-apscheduler==3.12
+apscheduler==3.11.1
+
+
